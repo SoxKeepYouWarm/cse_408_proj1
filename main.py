@@ -11,7 +11,7 @@
 
 from string import punctuation
 
-if __name__ == '__main__':
+def char_analyzer():
     input_file = open("input_file.txt", "r")
 
     punct = set(punctuation)
@@ -31,6 +31,13 @@ if __name__ == '__main__':
     for key in letter_list.keys():
         print("This file contains %s instances of %s" %(letter_list[key], key))
 
+    input_file.close()
+    return letter_list
+
+
+def word_analyzer():
+    input_file = open("input_file.txt", "r")
+
     word_list = {}
     for word in input_file.read().split():
 
@@ -44,8 +51,13 @@ if __name__ == '__main__':
 
     for key in word_list.keys():
         print("This file contains %s instances of %s" %(word_list[key], key))
-    #print(word)
+
+    input_file.close()
+    return word_list
 
 
-
-    #print(words)
+if __name__ == '__main__':
+    output_file = open("output_file.txt", "w")
+    char_analysis = char_analyzer()
+    word_analysis = word_analyzer()
+    
