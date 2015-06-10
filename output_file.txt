@@ -1,0 +1,69 @@
+Occurrences of each letter:
+'a' occurs 5 times in the file.  2.87356321839 percent of total
+'b' occurs 1 times in the file.  0.574712643678 percent of total
+'c' occurs 2 times in the file.  1.14942528736 percent of total
+'d' occurs 6 times in the file.  3.44827586207 percent of total
+'e' occurs 24 times in the file.  13.7931034483 percent of total
+'f' occurs 2 times in the file.  1.14942528736 percent of total
+'g' occurs 3 times in the file.  1.72413793103 percent of total
+'h' occurs 11 times in the file.  6.32183908046 percent of total
+'i' occurs 22 times in the file.  12.6436781609 percent of total
+'j' occurs 0 times in the file.  0.0 percent of total
+'k' occurs 2 times in the file.  1.14942528736 percent of total
+'l' occurs 8 times in the file.  4.59770114943 percent of total
+'m' occurs 6 times in the file.  3.44827586207 percent of total
+'n' occurs 8 times in the file.  4.59770114943 percent of total
+'o' occurs 13 times in the file.  7.47126436782 percent of total
+'p' occurs 3 times in the file.  1.72413793103 percent of total
+'q' occurs 0 times in the file.  0.0 percent of total
+'r' occurs 11 times in the file.  6.32183908046 percent of total
+'s' occurs 14 times in the file.  8.04597701149 percent of total
+'t' occurs 19 times in the file.  10.9195402299 percent of total
+'u' occurs 3 times in the file.  1.72413793103 percent of total
+'v' occurs 1 times in the file.  0.574712643678 percent of total
+'w' occurs 6 times in the file.  3.44827586207 percent of total
+'x' occurs 0 times in the file.  0.0 percent of total
+'y' occurs 4 times in the file.  2.29885057471 percent of total
+'z' occurs 0 times in the file.  0.0 percent of total
+
+Total number of chars is 174
+
+Word stats:
+'already' occurs 1 times
+'file' occurs 1 times
+'is' occurs 2 times
+'some' occurs 1 times
+'second' occurs 1 times
+'have' occurs 1 times
+'out' occurs 1 times
+'things' occurs 1 times
+'three' occurs 3 times
+'write' occurs 1 times
+'to' occurs 1 times
+'input' occurs 1 times
+'skipped' occurs 1 times
+'running' occurs 1 times
+'world' occurs 2 times
+'line' occurs 2 times
+'a' occurs 1 times
+'this' occurs 5 times
+'of' occurs 1 times
+'times' occurs 3 times
+'i' occurs 4 times
+'goodbye' occurs 1 times
+'cake' occurs 1 times
+'my' occurs 2 times
+'hello' occurs 1 times
+'wrote' occurs 3 times
+
+Total number of words is 43
+word ranked 1 is : this
+word ranked 2 is : i
+word ranked 3 is : three
+word ranked 4 is : times
+word ranked 5 is : wrote
+word ranked 6 is : is
+word ranked 7 is : world
+word ranked 8 is : line
+word ranked 9 is : my
+word ranked 10 is : already
