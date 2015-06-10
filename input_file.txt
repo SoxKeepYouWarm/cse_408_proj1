@@ -1,0 +1,6 @@
+Hello World, this is my input file.  Have some cake!
+This is my second line
+
+I Skipped a line!
+
+Goodbye World!
