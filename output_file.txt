@@ -1,69 +1,193 @@
 Occurrences of each letter:
-'a' occurs 5 times in the file.  2.87356321839 percent of total
-'b' occurs 1 times in the file.  0.574712643678 percent of total
-'c' occurs 2 times in the file.  1.14942528736 percent of total
-'d' occurs 6 times in the file.  3.44827586207 percent of total
-'e' occurs 24 times in the file.  13.7931034483 percent of total
-'f' occurs 2 times in the file.  1.14942528736 percent of total
-'g' occurs 3 times in the file.  1.72413793103 percent of total
-'h' occurs 11 times in the file.  6.32183908046 percent of total
-'i' occurs 22 times in the file.  12.6436781609 percent of total
-'j' occurs 0 times in the file.  0.0 percent of total
-'k' occurs 2 times in the file.  1.14942528736 percent of total
-'l' occurs 8 times in the file.  4.59770114943 percent of total
-'m' occurs 6 times in the file.  3.44827586207 percent of total
-'n' occurs 8 times in the file.  4.59770114943 percent of total
-'o' occurs 13 times in the file.  7.47126436782 percent of total
-'p' occurs 3 times in the file.  1.72413793103 percent of total
-'q' occurs 0 times in the file.  0.0 percent of total
-'r' occurs 11 times in the file.  6.32183908046 percent of total
-'s' occurs 14 times in the file.  8.04597701149 percent of total
-'t' occurs 19 times in the file.  10.9195402299 percent of total
-'u' occurs 3 times in the file.  1.72413793103 percent of total
-'v' occurs 1 times in the file.  0.574712643678 percent of total
-'w' occurs 6 times in the file.  3.44827586207 percent of total
-'x' occurs 0 times in the file.  0.0 percent of total
-'y' occurs 4 times in the file.  2.29885057471 percent of total
-'z' occurs 0 times in the file.  0.0 percent of total
+'a' occurs 124 times in the file.  7.94871794872 percent of total
+'b' occurs 28 times in the file.  1.79487179487 percent of total
+'c' occurs 68 times in the file.  4.35897435897 percent of total
+'d' occurs 39 times in the file.  2.5 percent of total
+'e' occurs 179 times in the file.  11.4743589744 percent of total
+'f' occurs 31 times in the file.  1.98717948718 percent of total
+'g' occurs 58 times in the file.  3.71794871795 percent of total
+'h' occurs 58 times in the file.  3.71794871795 percent of total
+'i' occurs 122 times in the file.  7.82051282051 percent of total
+'j' occurs 1 times in the file.  0.0641025641026 percent of total
+'k' occurs 9 times in the file.  0.576923076923 percent of total
+'l' occurs 92 times in the file.  5.89743589744 percent of total
+'m' occurs 66 times in the file.  4.23076923077 percent of total
+'n' occurs 102 times in the file.  6.53846153846 percent of total
+'o' occurs 100 times in the file.  6.41025641026 percent of total
+'p' occurs 59 times in the file.  3.78205128205 percent of total
+'q' occurs 1 times in the file.  0.0641025641026 percent of total
+'r' occurs 102 times in the file.  6.53846153846 percent of total
+'s' occurs 72 times in the file.  4.61538461538 percent of total
+'t' occurs 106 times in the file.  6.79487179487 percent of total
+'u' occurs 43 times in the file.  2.75641025641 percent of total
+'v' occurs 11 times in the file.  0.705128205128 percent of total
+'w' occurs 16 times in the file.  1.02564102564 percent of total
+'x' occurs 3 times in the file.  0.192307692308 percent of total
+'y' occurs 26 times in the file.  1.66666666667 percent of total
+'z' occurs 1 times in the file.  0.0641025641026 percent of total
 
-Total number of chars is 174
+Total number of chars is 1560
 
 Word stats:
-'already' occurs 1 times
-'file' occurs 1 times
-'is' occurs 2 times
+'limited' occurs 1 times
+'code' occurs 1 times
+'proposed' occurs 1 times
+'mit.[3]' occurs 1 times
+'developed' occurs 1 times
+'supported' occurs 1 times
+'hopper' occurs 1 times
+'pascal' occurs 1 times
+'manchester' occurs 1 times
+'functioned' occurs 1 times
+'high-level' occurs 2 times
+'its' occurs 2 times
+'tim' occurs 1 times
+'common' occurs 1 times
+'1943' occurs 1 times
+'credited' occurs 1 times
+'than' occurs 1 times
+'languages' occurs 1 times
+'fortran' occurs 1 times
+'compiling' occurs 1 times
+'has' occurs 1 times
+'first' occurs 10 times
+'compiled' occurs 4 times
+'practice' occurs 1 times
+'early' occurs 4 times
+'1957' occurs 1 times
+'nearly' occurs 1 times
+'1952' occurs 2 times
+'using' occurs 1 times
+'compiles' occurs 1 times
+'compiler' occurs 10 times
+'alick' occurs 1 times
+'level' occurs 2 times
+'lisp' occurs 2 times
+'university' occurs 1 times
+'source' occurs 1 times
+'team' occurs 1 times
+'language;' occurs 1 times
+'become' occurs 2 times
+'because' occurs 1 times
+'old' occurs 1 times
 'some' occurs 1 times
-'second' occurs 1 times
-'have' occurs 1 times
-'out' occurs 1 times
-'things' occurs 1 times
-'three' occurs 3 times
-'write' occurs 1 times
-'to' occurs 1 times
-'input' occurs 1 times
-'skipped' occurs 1 times
+'idea' occurs 1 times
+'challenges' occurs 1 times
+'computer' occurs 3 times
+'interpreter' occurs 1 times
+'assembly' occurs 2 times
+'hart' occurs 2 times
+'levin's' occurs 1 times
+'capacity' occurs 1 times
+'both' occurs 1 times
+'for' occurs 6 times
+'problem—the' occurs 1 times
+'since' occurs 1 times
+'written' occurs 4 times
+'increasing' occurs 1 times
+'compilers' occurs 3 times
+'be' occurs 3 times
+'led' occurs 2 times
+'autocode' occurs 1 times
+'notion' occurs 1 times
+'popular' occurs 1 times
+'although' occurs 2 times
+'a-0' occurs 2 times
+'by' occurs 10 times
+'on' occurs 2 times
+'c' occurs 1 times
+'compiler)' occurs 1 times
+'language' occurs 12 times
+'created' occurs 1 times
+'technical' occurs 1 times
+'of' occurs 7 times
+'computers' occurs 2 times
+'programming' occurs 4 times
+'implementation' occurs 1 times
+'1970s' occurs 1 times
+'domains' occurs 1 times
+'implement' occurs 1 times
+'introduced' occurs 1 times
+'or' occurs 3 times
+'backus' occurs 1 times
+'capable' occurs 1 times
+'own' occurs 1 times
+'loader' occurs 1 times
+'primarily' occurs 1 times
+'quickly' occurs 1 times
+'to' occurs 4 times
+'caught' occurs 1 times
+'been' occurs 1 times
+'mark' occurs 1 times
+'memory' occurs 1 times
+'john' occurs 1 times
+'was' occurs 5 times
+'more' occurs 2 times
+'building' occurs 1 times
+'mike' occurs 1 times
+'modern' occurs 1 times
+'complete' occurs 1 times
+'zuse' occurs 1 times
+'1960' occurs 1 times
+'newer' occurs 1 times
+'grace' occurs 1 times
+'must' occurs 1 times
+'either' occurs 1 times
+'ibm' occurs 1 times
+'levin' occurs 1 times
+'when' occurs 1 times
+'choices' occurs 1 times
+'substantial' occurs 1 times
+'were' occurs 3 times
+'and' occurs 6 times
+'(plankalkül)' occurs 1 times
+'expanding' occurs 1 times
+'is' occurs 4 times
+'linker' occurs 1 times
+'it' occurs 2 times
+'an' occurs 2 times
+'high' occurs 1 times
+'as' occurs 4 times
+'konrad' occurs 1 times
+'cobol' occurs 1 times
+'at' occurs 3 times
+'have' occurs 2 times
+'in' occurs 14 times
+'different' occurs 1 times
+'generally' occurs 1 times
+'1962' occurs 1 times
+'1' occurs 1 times
+'application' occurs 1 times
+'complex' occurs 1 times
+'functionality' occurs 1 times
+'many' occurs 1 times
+'higher' occurs 1 times
+'multiple' occurs 1 times
+'hand' occurs 1 times
 'running' occurs 1 times
-'world' occurs 2 times
-'line' occurs 2 times
-'a' occurs 1 times
-'this' occurs 5 times
-'of' occurs 1 times
-'times' occurs 3 times
-'i' occurs 4 times
-'goodbye' occurs 1 times
-'cake' occurs 1 times
-'my' occurs 2 times
-'hello' occurs 1 times
-'wrote' occurs 3 times
+'designed' occurs 1 times
+'such' occurs 1 times
+'self-hosting' occurs 2 times
+'a' occurs 10 times
+'–' occurs 2 times
+'(as' occurs 1 times
+'bootstrapping' occurs 1 times
+'considered' occurs 1 times
+'architectures' occurs 2 times
+'glennie' occurs 1 times
+'complexity' occurs 1 times
+'the' occurs 22 times
+'software' occurs 1 times
+'having' occurs 1 times
 
-Total number of words is 43
-word ranked 1 is : this
-word ranked 2 is : i
-word ranked 3 is : three
-word ranked 4 is : times
-word ranked 5 is : wrote
-word ranked 6 is : is
-word ranked 7 is : world
-word ranked 8 is : line
-word ranked 9 is : my
-word ranked 10 is : already
+Total number of words is 304
+word ranked 1 is : the
+word ranked 2 is : in
+word ranked 3 is : language
+word ranked 4 is : first
+word ranked 5 is : compiler
+word ranked 6 is : by
+word ranked 7 is : a
+word ranked 8 is : of
+word ranked 9 is : for
+word ranked 10 is : and

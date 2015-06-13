@@ -1,9 +1,17 @@
-Hello World, this is my input file.  Have some cake!
-This is my second line, already running out of things to write.
-
-I wrote this three times
-I wrote This Three Times
-i Wrote this Three Times
-
-I Skipped a line!
-Goodbye World!
+Software for early computers was primarily written in assembly language. Although the first high level language is
+nearly as old as the first computer, the limited memory capacity of early computers led to substantial technical
+challenges when the first compilers were designed.  The first high-level programming language (Plankalkül) was
+proposed by Konrad Zuse in 1943. The first compiler was written by Grace Hopper, in 1952, for the A-0 programming
+language; the A-0 functioned more as a loader or linker than the modern notion of a compiler. The first autocode and
+its compiler were developed by Alick Glennie in 1952 for the Mark 1 computer at the University of Manchester and is
+considered by some to be the first compiled programming language. The FORTRAN team led by John Backus at IBM is
+generally credited as having introduced the first complete compiler in 1957. COBOL was an early language to be
+compiled on multiple architectures, in 1960.  In many application domains the idea of using a higher level language
+quickly caught on. Because of the expanding functionality supported by newer programming languages and the increasing
+complexity of computer architectures, compilers have become more complex.  Early compilers were written in assembly
+language. The first self-hosting compiler – capable of compiling its own source code in a high-level language –
+was created in 1962 for Lisp by Tim Hart and Mike Levin at MIT.[3] Since the 1970s it has become common practice to
+implement a compiler in the language it compiles, although both Pascal and C have been popular choices for
+implementation language. Building a self-hosting compiler is a bootstrapping problem—the first such compiler for a
+language must be compiled either by hand or by a compiler written in a different language, or (as in Hart and Levin's
+Lisp compiler) compiled by running the compiler in an interpreter.

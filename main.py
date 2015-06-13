@@ -33,8 +33,8 @@ def char_counter(file_name):
             if letter not in letter_list:
                 letter_list[letter] = 0
 
-    for key in letter_list.keys():
-        print("This file contains %s instances of %s" % (letter_list[key], key))
+    #for key in letter_list.keys():
+        #print("This file contains %s instances of %s" % (letter_list[key], key))
 
     input_file.close()
     return letter_list
@@ -54,8 +54,8 @@ def word_counter(file_name):
         else:
             word_list[word_lower] += 1
 
-    for key in word_list.keys():
-        print("This file contains %s instances of %s" % (word_list[key], key))
+    #for key in word_list.keys():
+        #print("This file contains %s instances of %s" % (word_list[key], key))
 
     input_file.close()
     return word_list
@@ -67,9 +67,9 @@ def get_char_percents(_char_nums, num_of_chars):
         if letter in _char_nums:
             char_percent = str((float(_char_nums[letter])/num_of_chars)*100)
             char_percent_list[letter] = char_percent
-            print("%s consists of %s percent of input chars" % (str(letter), char_percent))
+            #print("%s consists of %s percent of input chars" % (str(letter), char_percent))
         else:
-            print("%s consists of 0 percent of input chars" % (str(letter)))
+            #print("%s consists of 0 percent of input chars" % (str(letter)))
             char_percent_list[letter] = 0
 
     return char_percent_list
